@@ -351,13 +351,13 @@ function App() {
                     </span>
                   )}
                 </div>
-                <p
+                {/* <p
                   className={`mt-4 text-2xl font-black ${
                     item.highlighted ? "text-sun" : "text-leaf"
                   }`}
                 >
                   {item.price}
-                </p>
+                </p> */}
                 <p
                   className={`mt-3 text-sm leading-7 ${
                     item.highlighted ? "text-paper/70" : "text-ink/64"
