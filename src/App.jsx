@@ -501,7 +501,7 @@ function App() {
       <footer className="border-t border-ink/10 py-8">
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-5 text-sm text-ink/58 sm:flex-row sm:items-center sm:justify-between sm:px-8">
           <p>
-            © 2026 {profile.name}. Website, mobile app, backend, dan otomasi.
+            © 2026 {profile.name}. Web dan Mobile Apps.
           </p>
           <div className="flex items-center gap-3">
             <span className="size-2 rounded-full bg-mint" />
